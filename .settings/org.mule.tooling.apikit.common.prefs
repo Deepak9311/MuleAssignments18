@@ -1,0 +1,3 @@
+api_version={"apiId"\:"13121381","apiName"\:"MUA Flights API","versionName"\:"1.0","versionId"\:"180118","deprecated"\:false,"description"\:"Returne flights for United, American, and/or Delta airlines","organizationId"\:"1f99a5f3-6328-4135-abe0-23170bcb4f17","exportUrl"\:"https\://anypoint.mulesoft.com/apiplatform/repository/v2/organizations/1f99a5f3-6328-4135-abe0-23170bcb4f17/apis/13121381/versions/180118/files/export","rootFileId"\:"1499022"}
+eclipse.preferences.version=1
+users=[{"token"\:"5ba8f067-934d-4ddc-9748-8eda3b8339d5","userId"\:"deepak56","refreshToken"\:""}]
